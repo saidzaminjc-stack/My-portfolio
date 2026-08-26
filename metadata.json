@@ -1,0 +1,6 @@
+{
+  "name": "DevPortfolio Pro - Web Developer & Client Portal",
+  "description": "A high-performance portfolio and client order management platform for professional web developers, featuring project case studies, client ordering system, client dashboard, admin CMS, and SEO management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
